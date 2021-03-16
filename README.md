@@ -1,4 +1,5 @@
 # quote-generator-vue
+A random quote generator build using Vue.js and Vue CLI.
 
 ## Project setup
 ```
