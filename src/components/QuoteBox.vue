@@ -36,7 +36,18 @@
     #quote-box {
         margin: 0 auto;
         border: 1px solid #000;
-        max-width: 768px;
+        max-width: 700px;
         padding: 1rem;
+    }
+
+    @media (max-width: 800px) {
+        #quote-box {
+            margin: 0 1rem;
+        }
+    }
+
+    #text {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
     }
 </style>
