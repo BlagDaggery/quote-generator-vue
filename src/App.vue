@@ -1,14 +1,14 @@
 <template>
     <div id="app">
-        <HelloWorld msg="Get a Random Star Wars Quote" />
+        <HelloWorld msg="Get a Random Quote" />
         <QuoteBox />
     </div>
 </template>
 
 <script>
-    import HelloWorld from './components/HelloWorld.vue'
-    import QuoteBox from './components/QuoteBox.vue'
-
+    import HelloWorld from './components/HelloWorld.vue';
+    import QuoteBox from './components/QuoteBox.vue';
+    
     export default {
       name: 'App',
       components: {
