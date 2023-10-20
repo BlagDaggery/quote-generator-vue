@@ -1,5 +1,10 @@
 # quote-generator-vue
-A random quote generator build using Vue.js and Vue CLI.
+A random quote generator built using Vue.js and the Vue CLI.
+
+## ⚠️ No longer functional ⚠️
+This project no longer works. Steps to get this working again:
+1. [Switch from Vue CLI to Vite](https://github.com/BlagDaggery/quote-generator-vue/issues/1)
+2. [Update API](https://github.com/BlagDaggery/quote-generator-vue/issues/2)
 
 ## Project setup
 ```
